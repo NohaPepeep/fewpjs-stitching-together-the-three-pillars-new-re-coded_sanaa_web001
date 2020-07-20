@@ -37,7 +37,7 @@ function likeCallback(e) {
   //glyph.addEventListener("click", likeCallback);
 //}
 
--
+
 
 function mimicServerCall() {
   return new Promise(function(resolve, reject) {
